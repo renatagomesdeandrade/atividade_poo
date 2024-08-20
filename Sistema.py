@@ -73,7 +73,7 @@ def main():
             break
 
         else:
-            print("Opção inválida, por favor digite uma das opções válidas")    
+            print("Opção inválida, por favor digite uma das opções válidas!")    
 
 
 if __name__ == "__main__":
